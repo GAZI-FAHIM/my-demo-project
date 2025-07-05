@@ -1,3 +1,7 @@
 .header{
-    background-color: tomato;
+    background-color: wheat;
+    background-image: url('/style.css/em.jpg');
+    background-repeat: no-repeat;
+    background-size: 400px;
+
 }
